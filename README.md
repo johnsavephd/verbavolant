@@ -8,4 +8,4 @@ Every morning at 9:00 (Rome): a random Latin saying with translation, pronunciat
 3. Actions → "Verba Volant daily" → Run workflow per il primo test.
 
 ## Landing page
-`docs/index.html` is a single static file. Publish it with GitHub Pages (Settings → Pages → Branch: main, folder: /docs). The button points to https://t.me/verbavolant.
+`docs/index.html` is a single static file. Publish it with GitHub Pages (Settings → Pages → Branch: main, folder: /docs). The button points to https://t.me/vv_verbavolant.
