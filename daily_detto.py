@@ -34,7 +34,8 @@ r = requests.post(
           "disable_web_page_preview": True},
     timeout=30,
 )
-r.raise_for_status()
+if not r.ok:
+    sys.exit(f"Telegram error {r.status_code}: {r.json().get('description', r.text)}")
 
 history.append({"date": datetime.now(ROME).date().isoformat(), "latin": s["latin"]})
 json.dump(history, open("history.json", "w"), ensure_ascii=False, indent=1)
