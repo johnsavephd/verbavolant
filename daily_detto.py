@@ -22,7 +22,12 @@ if not left:  # list exhausted: start a new cycle
 s = random.choice(left)
 
 e = lambda k: html.escape(s[k], quote=False)
-text = f"<b>{e('latin')}</b>\n<i>{e('pronunciation')}</i>\n\n“{e('translation')}”\n\n{e('explanation')}"
+text = (
+    f"{s['icon']} <b>{e('latin')}</b>\n<i>{e('pronunciation')}</i>\n\n"
+    f"“{e('translation')}”\n\n"
+    f"<b>Origin.</b> {e('origin')}\n\n"
+    f"<b>Today.</b> {e('today')}"
+)
 
 if DRY_RUN:
     print(text)

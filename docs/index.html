@@ -22,7 +22,8 @@ main{max-width:600px;margin:0 auto;padding:clamp(40px,11vh,120px) 24px 48px}
 .latin{font-feature-settings:"locl" 0;font-size:clamp(34px,7.4vw,52px);line-height:1.12;font-weight:400;letter-spacing:-.01em}
 .english{font-size:23px;margin-top:14px}
 .sound{font-style:italic;color:var(--soft);margin-top:10px}
-.story{margin-top:18px;min-height:6.4em}
+.story{margin-top:18px;min-height:4.8em}
+.today{margin-top:12px;min-height:3.2em}
 .actions{display:flex;flex-wrap:wrap;align-items:center;gap:14px 28px;margin-top:28px}
 .join{background:var(--ink);color:var(--bg);text-decoration:none;font-weight:500;padding:12px 24px;border-radius:999px}
 .join:hover{opacity:.82}
@@ -41,7 +42,8 @@ footer{margin-top:clamp(64px,14vh,140px);padding-top:18px;border-top:1px solid v
     <h1 class="latin" id="latin" lang="la">Vae victis</h1>
     <p class="sound" id="sound">wy WIK-tis</p>
     <p class="english" id="english">“Woe to the vanquished.”</p>
-    <p class="story" id="story">According to Livy, the Gallic chief Brennus said it after sacking Rome, throwing his sword on the scale as the ransom was weighed. The winner writes the rules.</p>
+    <p class="story" id="story">Livy, book 5: after sacking Rome around 390 BC, the Gallic chief Brennus used false weights for the ransom, and when the Romans protested he threw his sword on the scale.</p>
+    <p class="today" id="today">The winner sets the terms. Said whenever the stronger side stops pretending to be fair.</p>
   </section>
 
   <div class="actions">
@@ -52,18 +54,11 @@ footer{margin-top:clamp(64px,14vh,140px);padding-top:18px;border-top:1px solid v
   <footer>Free. One message a day at 9:00, Rome time. To stop, leave the channel.</footer>
 </main>
 <script>
-const S=[
-["Vae victis","Woe to the vanquished.","wy WIK-tis","According to Livy, the Gallic chief Brennus said it after sacking Rome, throwing his sword on the scale as the ransom was weighed. The winner writes the rules."],
-["Mundus vult decipi, ergo decipiatur","The world wants to be deceived, so let it be deceived.","MOON-doos woolt DEH-ki-pee, ER-goh deh-ki-pee-AH-toor","Of uncertain origin, often attributed to Petronius. A cynic's business plan: if people prefer the illusion, sell them the illusion."],
-["Quis custodiet ipsos custodes?","Who will guard the guards themselves?","kwiss koo-STOH-dee-et IP-sohs koo-STOH-dayss","Juvenal, Satires 6, originally about keeping wives faithful. Now used for any power with nobody checking it."],
-["Pecunia non olet","Money does not stink.","peh-KOO-nee-ah nohn OH-let","Attributed to Emperor Vespasian, who taxed public urinals and held a coin under his son's nose to prove the point. It does not matter where the money comes from."],
-["Festina lente","Make haste slowly.","fes-TEE-nah LEN-teh","Suetonius reports it as a favourite saying of Emperor Augustus. Speed and care are not opposites; rushing usually costs time."],
-["Gutta cavat lapidem","A drop hollows out the stone.","GOOT-tah KAH-waht LAH-pi-dem","Ovid, Letters from Pontus, which continues: not by force but by falling often. Persistence beats strength, given enough time."]
-];let n=0;
+const S=[["Vae victis", "Woe to the vanquished.", "wy WIK-tis", "Livy, book 5: after sacking Rome around 390 BC, the Gallic chief Brennus used false weights for the ransom, and when the Romans protested he threw his sword on the scale.", "The winner sets the terms. Said whenever the stronger side stops pretending to be fair."], ["Mundus vult decipi, ergo decipiatur", "The world wants to be deceived, so let it be deceived.", "MOON-doos woolt DEH-ki-pee, ER-goh deh-ki-pee-AH-toor", "Not ancient, though often credited to Petronius. The first half appears in the 16th-century writer Sebastian Franck; the second half is traditionally attributed to Cardinal Carlo Carafa.", "A cynic's business plan: if people prefer the illusion, someone will sell it to them."], ["Quis custodiet ipsos custodes?", "Who will guard the guards themselves?", "kwiss koo-STOH-dee-et IP-sohs koo-STOH-dayss", "Juvenal, Satires 6, on the futility of setting guards over an unfaithful wife: the guards can be bribed too.", "The core question of any system of oversight: who checks the people doing the checking?"], ["Pecunia non olet", "Money does not stink.", "peh-KOO-nee-ah nohn OH-let", "Suetonius tells how Emperor Vespasian taxed the urine collected from public toilets; when his son objected, he held a coin to his nose and asked if it smelled.", "Used when someone takes money without asking where it came from."], ["Festina lente", "Make haste slowly.", "fes-TEE-nah LEN-teh", "Suetonius says it was a favourite saying of Emperor Augustus, who quoted it in Greek. Renaissance printers later used it with the emblem of a dolphin wrapped around an anchor.", "Speed and care are not opposites: rushing usually costs more time than it saves."], ["Gutta cavat lapidem", "Dripping water hollows the stone.", "GOOT-tah KAH-waht LAH-pi-dem", "Ovid, Letters from the Black Sea 4.10. The popular addition, not by force but by falling often, is a later medieval extension.", "Small, steady effort beats one big push. Good news for habits, bad news for grudges."]];let n=0;
 const $=id=>document.getElementById(id);
 $("next").onclick=()=>{n=(n+1)%S.length;const s=S[n];
   $("latin").textContent=s[0];
-  $("english").textContent="“"+s[1]+"”";$("sound").textContent=s[2];$("story").textContent=s[3];};
+  $("english").textContent="“"+s[1]+"”";$("sound").textContent=s[2];$("story").textContent=s[3];$("today").textContent=s[4];};
 </script>
 </body>
 </html>

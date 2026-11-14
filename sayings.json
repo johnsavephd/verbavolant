@@ -1,242 +1,1202 @@
 [
  {
+  "icon": "🍎",
   "latin": "Carpe diem",
-  "translation": "Seize the day.",
   "pronunciation": "KAR-peh DEE-em",
-  "explanation": "Horace, Odes 1.11. The verb is really 'pluck', as you would pick fruit: enjoy what is ripe now, because you do not know what tomorrow holds."
+  "translation": "Seize the day.",
+  "origin": "Horace, Odes 1.11, advising a woman named Leuconoe to stop consulting astrologers about the future. The verb literally means to pluck, as you would pick ripe fruit.",
+  "today": "Not a call to party, but to stop postponing: use what is in front of you now, since tomorrow is not guaranteed."
  },
  {
+  "icon": "💀",
   "latin": "Memento mori",
-  "translation": "Remember that you will die.",
   "pronunciation": "meh-MEN-toh MOH-ree",
-  "explanation": "A medieval Christian motto, often tied to the story of a slave whispering to a triumphing general. That anecdote is only loosely related. Used to put small worries in perspective."
+  "translation": "Remember that you will die.",
+  "origin": "A Christian and monastic motto of the Middle Ages, rooted in older Stoic practice. The story of a slave whispering it to a Roman general in triumph is a later embellishment.",
+  "today": "A quick way to put small worries in proportion and decide what is actually worth your time."
  },
  {
+  "icon": "🐢",
   "latin": "Festina lente",
-  "translation": "Make haste slowly.",
   "pronunciation": "fes-TEE-nah LEN-teh",
-  "explanation": "Suetonius reports it as a favourite saying of Emperor Augustus, translating an older Greek maxim. Speed and care are not opposites; rushing usually costs time."
+  "translation": "Make haste slowly.",
+  "origin": "Suetonius says it was a favourite saying of Emperor Augustus, who quoted it in Greek. Renaissance printers later used it with the emblem of a dolphin wrapped around an anchor.",
+  "today": "Speed and care are not opposites: rushing usually costs more time than it saves."
  },
  {
+  "icon": "⚡",
   "latin": "Veni, vidi, vici",
-  "translation": "I came, I saw, I conquered.",
   "pronunciation": "WEH-nee WEE-dee WEE-kee",
-  "explanation": "Julius Caesar's report on a lightning victory at Zela in 47 BC, according to Suetonius and Plutarch. The ultimate short status update."
+  "translation": "I came, I saw, I conquered.",
+  "origin": "Julius Caesar's summary of his five-day victory at Zela in 47 BC. Suetonius says the three words were carried on a placard in his triumph.",
+  "today": "Shorthand for a quick, clean win, and the gold standard of the short status update."
  },
  {
+  "icon": "🎲",
   "latin": "Alea iacta est",
-  "translation": "The die is cast.",
   "pronunciation": "AH-leh-ah YAK-tah est",
-  "explanation": "Said by Caesar when crossing the Rubicon in 49 BC, as Suetonius tells it (in the word order 'iacta alea est'). It means a point of no return has been passed."
+  "translation": "The die is cast.",
+  "origin": "Caesar on crossing the Rubicon in 49 BC, starting a civil war. Suetonius gives it in Latin; Plutarch says he actually spoke it in Greek, quoting the playwright Menander.",
+  "today": "Used when a decision can no longer be undone, so there is no point looking back."
  },
  {
+  "icon": "🍷",
   "latin": "In vino veritas",
-  "translation": "In wine, truth.",
   "pronunciation": "in WEE-noh WEH-ri-tahs",
-  "explanation": "An old proverb; Pliny the Elder already notes that people say truth is found in wine. Tipsy people talk, and not always wisely."
+  "translation": "In wine, truth.",
+  "origin": "An ancient proverb with Greek roots; Pliny the Elder already remarks that people commonly credit wine with truth.",
+  "today": "People say what they really think after a few glasses. Whether that is a virtue depends on what they think."
  },
  {
+  "icon": "⏳",
   "latin": "Ars longa, vita brevis",
-  "translation": "Art is long, life is short.",
   "pronunciation": "ars LONG-gah, WEE-tah BREH-wis",
-  "explanation": "Latin form of the opening of Hippocrates' Aphorisms, where 'art' means the craft of medicine. Mastering anything takes longer than a lifetime allows."
+  "translation": "Skill takes long, life is short.",
+  "origin": "The Latin form of the first of Hippocrates' Aphorisms, where the art in question is medicine. Seneca repeats it at the start of On the Shortness of Life.",
+  "today": "Any real craft takes longer to master than you expect, so start now and be patient with yourself."
  },
  {
+  "icon": "🕰️",
   "latin": "Tempus fugit",
-  "translation": "Time flies.",
   "pronunciation": "TEM-poos FOO-git",
-  "explanation": "A shortening of Virgil's 'fugit inreparabile tempus' (Georgics 3): irreplaceable time flees. Clocks have borrowed it ever since."
+  "translation": "Time flies.",
+  "origin": "Shortened from Virgil, Georgics 3: fugit inreparabile tempus, irreplaceable time is fleeing. It became a favourite inscription on clocks and sundials.",
+  "today": "A reminder that the hours you lose do not come back, usually read on a clock you are late for."
  },
  {
+  "icon": "💪",
   "latin": "Mens sana in corpore sano",
-  "translation": "A sound mind in a sound body.",
   "pronunciation": "mens SAH-nah in KOR-poh-reh SAH-noh",
-  "explanation": "Juvenal, Satires 10. Often quoted as a fitness slogan, but he says it is one of the few things worth praying for, along with courage."
+  "translation": "A sound mind in a sound body.",
+  "origin": "Juvenal, Satires 10, listing the few things worth praying for, along with courage and freedom from greed and anger.",
+  "today": "Now a gym slogan, but Juvenal's point was humbler: ask for health and good sense, not wealth or fame."
  },
  {
+  "icon": "🎪",
   "latin": "Panem et circenses",
-  "translation": "Bread and circuses.",
   "pronunciation": "PAH-nem et kir-KEN-sayss",
-  "explanation": "Juvenal, Satires 10: the Roman people, who once gave out power, now anxiously want only food and shows. Still used for politics that buys applause."
+  "translation": "Bread and circuses.",
+  "origin": "Juvenal, Satires 10: the Roman people, who once handed out power and legions, now anxiously want only free grain and chariot races.",
+  "today": "Said of any politics that keeps people quiet with handouts and entertainment instead of answers."
  },
  {
+  "icon": "🛡️",
   "latin": "Si vis pacem, para bellum",
-  "translation": "If you want peace, prepare for war.",
   "pronunciation": "see wees PAH-kem, PAH-rah BEL-loom",
-  "explanation": "A modern short form of a line by the late Roman writer Vegetius. It is the logic of deterrence, and of every arms race."
+  "translation": "If you want peace, prepare for war.",
+  "origin": "A modern condensed form of a line by the late Roman military writer Vegetius: whoever desires peace, let him prepare for war.",
+  "today": "The logic of deterrence, and, its critics would add, of every arms race."
  },
  {
+  "icon": "📣",
   "latin": "Vox populi, vox Dei",
-  "translation": "The voice of the people is the voice of God.",
   "pronunciation": "wohks POP-oo-lee, wohks DEH-ee",
-  "explanation": "A medieval saying. Alcuin quoted it in a letter to Charlemagne only to reject it, since crowds are often wrong. Worth remembering at election time."
+  "translation": "The voice of the people is the voice of God.",
+  "origin": "A medieval saying. Alcuin of York quoted it in a letter to Charlemagne in 798 only to warn against it, since the crowd's riots are close to madness.",
+  "today": "Worth remembering both ways: majorities matter, and majorities can be wrong."
  },
  {
+  "icon": "🛒",
   "latin": "Caveat emptor",
-  "translation": "Let the buyer beware.",
   "pronunciation": "KAH-weh-aht EMP-tor",
-  "explanation": "A legal maxim of sales law: the buyer is responsible for checking what they buy. The seller is not obliged to point out the flaws."
+  "translation": "Let the buyer beware.",
+  "origin": "A maxim of sales law, especially in English common law: the buyer must check the goods, and the seller need not point out every flaw.",
+  "today": "Read the small print, test before you pay, and do not expect the seller to do your homework."
  },
  {
+  "icon": "⚖️",
   "latin": "Dura lex, sed lex",
-  "translation": "The law is harsh, but it is the law.",
   "pronunciation": "DOO-rah leks, sed leks",
-  "explanation": "A legal maxim. Rules apply even when the result feels unfair. The answer is to change the law, not to ignore it."
+  "translation": "The law is harsh, but it is the law.",
+  "origin": "A legal maxim distilled from a passage of the jurist Ulpian in Justinian's Digest, admitting a rule is very hard but is how the law is written.",
+  "today": "Rules apply even when the outcome feels unfair. The fix is to change the rule, not to ignore it."
  },
  {
+  "icon": "🐺",
   "latin": "Lupus in fabula",
-  "translation": "The wolf in the story.",
   "pronunciation": "LOO-poos in FAH-boo-lah",
-  "explanation": "Terence uses it in the Adelphoe for someone who shows up just as he is being discussed. The English cousin is 'speak of the devil'."
+  "translation": "The wolf in the story.",
+  "origin": "Used by Terence in the Adelphoe and by Cicero in his letters, for someone who turns up just as people are talking about him.",
+  "today": "The Latin for speak of the devil."
  },
  {
+  "icon": "📜",
   "latin": "Non omnis moriar",
-  "translation": "I shall not wholly die.",
   "pronunciation": "nohn OM-nis MOH-ree-ar",
-  "explanation": "Horace, Odes 3.30. He is proud that his poems will outlive him, and he was right: we are still quoting him two thousand years later."
+  "translation": "I shall not wholly die.",
+  "origin": "Horace, Odes 3.30, the proud final poem of his collection: his verses will outlast him.",
+  "today": "The hope behind any work meant to last. Horace was right; we are still quoting him."
  },
  {
+  "icon": "💔",
   "latin": "Odi et amo",
-  "translation": "I hate and I love.",
   "pronunciation": "OH-dee et AH-moh",
-  "explanation": "The first words of Catullus's poem 85, two lines long. He cannot explain it, he only feels it, and it hurts. The shortest love poem ever written."
+  "translation": "I hate and I love.",
+  "origin": "The opening of Catullus 85, a two-line poem about his affair with Lesbia: he cannot explain how, he only feels it, and it tortures him.",
+  "today": "Still the most precise description of a relationship you cannot leave."
  },
  {
+  "icon": "🔎",
   "latin": "Cui bono?",
-  "translation": "Who benefits?",
   "pronunciation": "KOO-ee BOH-noh",
-  "explanation": "Cicero, Pro Roscio Amerino, credits the Roman judge Cassius with asking it in criminal cases. To understand why something happened, follow the advantage."
+  "translation": "Who benefits?",
+  "origin": "Cicero, defending Sextus Roscius in 80 BC, cites the stern judge Lucius Cassius, who always asked this in criminal cases.",
+  "today": "To understand why something happened, follow the advantage. Useful in courtrooms and in reading the news."
  },
  {
+  "icon": "😩",
   "latin": "O tempora, o mores!",
-  "translation": "Oh the times, oh the customs!",
   "pronunciation": "oh TEM-poh-rah, oh MOH-rayss",
-  "explanation": "Cicero, Against Catiline, the opening of his attack on a conspirator in the Senate. The timeless complaint of every generation about the next."
+  "translation": "Oh the times, oh the customs!",
+  "origin": "Cicero, First Speech against Catiline, 63 BC, outraged that a known conspirator could sit calmly in the Senate.",
+  "today": "The timeless complaint about how things are going to the dogs. Usually said with a sigh, now often with irony."
  },
  {
+  "icon": "🔨",
   "latin": "Usus magister est optimus",
-  "translation": "Experience is the best teacher.",
   "pronunciation": "OO-soos mah-GIS-ter est OP-ti-moos",
-  "explanation": "Cicero, Pro Rabirio Postumo. It is a cheerful line, but note the price of the lessons, which is paid in mistakes."
+  "translation": "Experience is the best teacher.",
+  "origin": "Cicero, Pro Rabirio Postumo, in a passage about a man learning from his practical dealings.",
+  "today": "True, but the fees are paid in mistakes."
  },
  {
+  "icon": "🎯",
   "latin": "Homo proponit, sed Deus disponit",
-  "translation": "Man proposes, God disposes.",
-  "pronunciation": "HOH-moh PROH-poh-nit, sed DEH-oos DIS-poh-nit",
-  "explanation": "Thomas a Kempis, The Imitation of Christ. You can make all the plans you like. Whatever happens next is not up to you."
+  "pronunciation": "HOH-moh proh-POH-nit, sed DEH-oos dis-POH-nit",
+  "translation": "Man proposes, but God disposes.",
+  "origin": "Thomas a Kempis, The Imitation of Christ, a 15th-century devotional book, echoing an idea from Proverbs 16.",
+  "today": "Make your plans, but hold them loosely. Most of what happens next is not up to you."
  },
  {
+  "icon": "💧",
   "latin": "Gutta cavat lapidem",
-  "translation": "A drop hollows out the stone.",
   "pronunciation": "GOOT-tah KAH-waht LAH-pi-dem",
-  "explanation": "Ovid, Letters from Pontus, which continues 'not by force but by falling often'. Persistence beats strength, given enough time."
+  "translation": "Dripping water hollows the stone.",
+  "origin": "Ovid, Letters from the Black Sea 4.10. The popular addition, not by force but by falling often, is a later medieval extension.",
+  "today": "Small, steady effort beats one big push. Good news for habits, bad news for grudges."
  },
  {
+  "icon": "🦉",
   "latin": "Sapere aude",
-  "translation": "Dare to know.",
   "pronunciation": "SAH-peh-reh OW-deh",
-  "explanation": "Horace, Epistles 1.2. Kant adopted it as the motto of the Enlightenment: have the courage to use your own reason."
+  "translation": "Dare to know.",
+  "origin": "Horace, Epistles 1.2, urging a young friend to start living wisely now. In 1784 Kant made it the motto of the Enlightenment.",
+  "today": "Have the courage to think for yourself instead of borrowing conclusions."
  },
  {
+  "icon": "🍀",
   "latin": "Audentis Fortuna iuvat",
-  "translation": "Fortune favours the bold.",
   "pronunciation": "ow-DEN-tis for-TOO-nah YOO-waht",
-  "explanation": "Virgil, Aeneid 10. Said by Turnus, who then lost. Fortune favours the bold, but only sometimes, and not for long."
+  "translation": "Fortune favours the bold.",
+  "origin": "Virgil, Aeneid 10, spoken by Turnus as he leads his men into battle. He is later killed by Aeneas.",
+  "today": "Boldness does pay off, sometimes. Turnus is the reminder that the proverb has survivors' bias."
  },
  {
+  "icon": "🤝",
   "latin": "Homo sum, humani nihil a me alienum puto",
-  "translation": "I am a man; I consider nothing human foreign to me.",
   "pronunciation": "HOH-moh soom, hoo-MAH-nee NEE-hil ah meh ah-lee-AY-noom POO-toh",
-  "explanation": "Terence, Heauton Timorumenos. It is said by a character who is nosy about a neighbour. It became the motto of humanism."
+  "translation": "I am human; nothing human is alien to me.",
+  "origin": "Terence, The Self-Tormentor, 163 BC. A neighbour uses it to justify being nosy about another man's affairs.",
+  "today": "Born as an excuse for curiosity, it became the motto of humanism and empathy."
  },
  {
+  "icon": "⚔️",
   "latin": "Vae victis",
-  "translation": "Woe to the vanquished.",
   "pronunciation": "wy WIK-tis",
-  "explanation": "According to Livy, Brennus, the Gallic chief, said it after sacking Rome, throwing his sword on the scale as ransom was weighed. The winner writes the rules."
+  "translation": "Woe to the vanquished.",
+  "origin": "Livy, book 5: after sacking Rome around 390 BC, the Gallic chief Brennus used false weights for the ransom, and when the Romans protested he threw his sword on the scale.",
+  "today": "The winner sets the terms. Said whenever the stronger side stops pretending to be fair."
  },
  {
+  "icon": "🎭",
   "latin": "Mundus vult decipi, ergo decipiatur",
-  "translation": "The world wants to be deceived, so let it be deceived.",
   "pronunciation": "MOON-doos woolt DEH-ki-pee, ER-goh deh-ki-pee-AH-toor",
-  "explanation": "Of uncertain origin, often attributed to Petronius. A cynic's business plan: if people prefer the illusion, sell them the illusion."
+  "translation": "The world wants to be deceived, so let it be deceived.",
+  "origin": "Not ancient, though often credited to Petronius. The first half appears in the 16th-century writer Sebastian Franck; the second half is traditionally attributed to Cardinal Carlo Carafa.",
+  "today": "A cynic's business plan: if people prefer the illusion, someone will sell it to them."
  },
  {
+  "icon": "💰",
   "latin": "Pecunia non olet",
-  "translation": "Money does not stink.",
   "pronunciation": "peh-KOO-nee-ah nohn OH-let",
-  "explanation": "Attributed to Emperor Vespasian, who taxed public urinals and held a coin under his son's nose to prove the point (Suetonius). It does not matter where the money comes from."
+  "translation": "Money does not stink.",
+  "origin": "Suetonius tells how Emperor Vespasian taxed the urine collected from public toilets; when his son objected, he held a coin to his nose and asked if it smelled.",
+  "today": "Used when someone takes money without asking where it came from."
  },
  {
+  "icon": "👁️",
   "latin": "Quis custodiet ipsos custodes?",
-  "translation": "Who will guard the guards themselves?",
   "pronunciation": "kwiss koo-STOH-dee-et IP-sohs koo-STOH-dayss",
-  "explanation": "Juvenal, Satires 6, originally about keeping wives faithful. Now used for any power with nobody checking it."
+  "translation": "Who will guard the guards themselves?",
+  "origin": "Juvenal, Satires 6, on the futility of setting guards over an unfaithful wife: the guards can be bribed too.",
+  "today": "The core question of any system of oversight: who checks the people doing the checking?"
  },
  {
+  "icon": "🐾",
   "latin": "Homo homini lupus",
-  "translation": "Man is a wolf to man.",
   "pronunciation": "HOH-moh HOH-mi-nee LOO-poos",
-  "explanation": "Plautus, Asinaria, where it is said of a stranger you do not know. Hobbes later made it a motto of the state of nature."
+  "translation": "Man is a wolf to man.",
+  "origin": "Plautus, The Comedy of Asses, around 200 BC: a man is a wolf to a man when he does not know what sort he is. Hobbes made it famous in the 17th century.",
+  "today": "A bleak view of human nature, and in the original a narrower one: trust is earned, not assumed."
  },
  {
+  "icon": "🌊",
   "latin": "Abyssus abyssum invocat",
-  "translation": "Deep calls to deep.",
   "pronunciation": "ah-BIS-soos ah-BIS-soom IN-woh-kaht",
-  "explanation": "From the Vulgate, Psalm 41. Used for how one misfortune, or one mistake, tends to drag the next one behind it."
+  "translation": "Deep calls to deep.",
+  "origin": "The Vulgate, Psalm 41 (42 in modern numbering), a lament in which waves of trouble follow one another.",
+  "today": "One mistake or misfortune tends to drag the next behind it. Fix the first before it multiplies."
  },
  {
+  "icon": "🤡",
   "latin": "Risus abundat in ore stultorum",
-  "translation": "Laughter abounds in the mouth of fools.",
   "pronunciation": "REE-soos ah-BOON-daht in OH-reh stool-TOH-room",
-  "explanation": "A medieval proverb. People laugh most loudly at the jokes they understand least."
+  "translation": "Laughter abounds in the mouth of fools.",
+  "origin": "A medieval proverb, echoing Ecclesiastes on the laughter of fools.",
+  "today": "Aimed at whoever laughs loudest at what they understand least."
  },
  {
+  "icon": "🥂",
   "latin": "Nunc est bibendum",
-  "translation": "Now is the time to drink.",
   "pronunciation": "noonk est bi-BEN-doom",
-  "explanation": "Horace, Odes 1.37, written to celebrate the fall of Cleopatra. It is the Latin for 'let us open the bottle'."
+  "translation": "Now is the time to drink.",
+  "origin": "Horace, Odes 1.37, written to celebrate the defeat and death of Cleopatra in 30 BC.",
+  "today": "The classical way to say: let us open the bottle, it is over."
  },
  {
+  "icon": "🍦",
   "latin": "De gustibus non est disputandum",
-  "translation": "There is no arguing about tastes.",
   "pronunciation": "deh GOOS-ti-boos nohn est dis-poo-TAN-doom",
-  "explanation": "A scholastic maxim of uncertain origin. It is a polite way of ending a debate in which nobody will change their mind."
+  "translation": "There is no arguing about tastes.",
+  "origin": "A maxim of medieval and early modern scholastic origin, not found in classical authors.",
+  "today": "A polite way to end a debate nobody will win."
  },
  {
-  "latin": "Repetitio est mater studiorum",
-  "translation": "Repetition is the mother of learning.",
-  "pronunciation": "reh-peh-TI-tee-oh est MAH-ter stoo-dee-OH-room",
-  "explanation": "A traditional school proverb. Nothing sticks without being said, and heard, again."
- },
- {
+  "icon": "🔥",
   "latin": "Tantum religio potuit suadere malorum",
-  "translation": "So great are the evils that religion could persuade people to commit.",
   "pronunciation": "TAN-toom re-LI-gee-oh POH-too-it swah-DEH-reh mah-LOH-room",
-  "explanation": "Lucretius, On the Nature of Things 1. He is thinking of the sacrifice of Iphigenia. Written two thousand years ago and still debated."
+  "translation": "So many evils could religion persuade men to commit.",
+  "origin": "Lucretius, On the Nature of Things, book 1, after describing Agamemnon sacrificing his daughter Iphigenia to win a fair wind.",
+  "today": "Quoted against fanaticism of every kind, religious or not."
  },
  {
+  "icon": "😴",
   "latin": "Quandoque bonus dormitat Homerus",
-  "translation": "Even good Homer sometimes nods.",
-  "pronunciation": "KWAN-doh-kweh BOH-noos dor-MEE-taht hoh-MEH-roos",
-  "explanation": "Horace, Ars Poetica. Even the greatest author has weak passages. It is a kinder verdict than it sounds."
+  "pronunciation": "kwan-DOH-kweh BOH-noos dor-MEE-taht hoh-MEH-roos",
+  "translation": "Sometimes even good Homer nods off.",
+  "origin": "Horace, Art of Poetry: he is irritated when great Homer slips, though he admits that in a long work some drowsiness is forgivable.",
+  "today": "Even the best make mistakes. Judge the whole work, not its weakest page."
  },
  {
+  "icon": "🤐",
   "latin": "Si tacuisses, philosophus mansisses",
-  "translation": "If you had kept quiet, you would have remained a philosopher.",
-  "pronunciation": "see tah-KWEES-sess, fee-LOH-soh-foos mahn-SEES-sess",
-  "explanation": "Boethius, Consolation of Philosophy. A man who has boasted of being a philosopher is mocked once he reacts angrily to an insult. Silence preserves a reputation."
+  "pronunciation": "see tah-KWEES-ses, fee-LOH-soh-foos mahn-SEES-ses",
+  "translation": "Had you kept quiet, you would have remained a philosopher.",
+  "origin": "A medieval rewording of a story in Boethius' Consolation of Philosophy: a man boasting he is a philosopher answers an insult with anger, and gives himself away.",
+  "today": "Sometimes the smartest thing to say is nothing."
  },
  {
+  "icon": "🕳️",
   "latin": "Ex nihilo nihil fit",
-  "translation": "Nothing comes from nothing.",
   "pronunciation": "eks NEE-hi-loh NEE-hil fit",
-  "explanation": "Lucretius, among others, repeating an idea of Greek philosophy. It is the first principle of physics, and of any budget."
+  "translation": "Nothing comes from nothing.",
+  "origin": "The principle goes back to Greek philosophy and Lucretius, who writes that nothing can be created from nothing. The compact Latin formula is later.",
+  "today": "First law of physics, and of budgets: results need inputs."
  },
  {
+  "icon": "🐕",
   "latin": "Cave canem",
-  "translation": "Beware of the dog.",
   "pronunciation": "KAH-weh KAH-nem",
-  "explanation": "Petronius, Satyricon, describes a painted warning of this kind at a rich man's door. Mosaics with the same words survive at Pompeii."
+  "translation": "Beware of the dog.",
+  "origin": "Petronius' Satyricon describes a painted dog with these words at a rich man's door. A famous mosaic with the same words survives at Pompeii.",
+  "today": "The oldest door sign in the world still in use."
+ },
+ {
+  "icon": "✂️",
+  "latin": "Divide et impera",
+  "pronunciation": "DEE-wi-deh et IM-peh-rah",
+  "translation": "Divide and rule.",
+  "origin": "Not found in any ancient author. It is an early modern maxim of statecraft, often attached to Louis XI of France or to readings of Machiavelli.",
+  "today": "Keep your opponents busy fighting each other. Watch for it in offices as much as in empires."
+ },
+ {
+  "icon": "🔄",
+  "latin": "Errare humanum est, perseverare autem diabolicum",
+  "pronunciation": "er-RAH-reh hoo-MAH-noom est, per-seh-weh-RAH-reh OW-tem dee-ah-BOH-li-koom",
+  "translation": "To err is human, but to persist is diabolical.",
+  "origin": "The first half echoes Cicero and Seneca; the second half comes from Christian writing, close to a sermon of Saint Augustine.",
+  "today": "Mistakes are forgivable. Repeating them after you have been warned is a choice."
+ },
+ {
+  "icon": "🪞",
+  "latin": "Nosce te ipsum",
+  "pronunciation": "NOS-keh teh IP-soom",
+  "translation": "Know yourself.",
+  "origin": "The Latin form of gnothi seauton, carved at the temple of Apollo at Delphi and taken up by Socrates.",
+  "today": "Most bad decisions start with a wrong idea of who we are and what we want."
+ },
+ {
+  "icon": "🧠",
+  "latin": "Cogito, ergo sum",
+  "pronunciation": "KOH-gi-toh, ER-goh soom",
+  "translation": "I think, therefore I am.",
+  "origin": "René Descartes. He first wrote it in French in 1637; the Latin version appears in his Principles of Philosophy, 1644.",
+  "today": "The one thing you cannot doubt is that you are doubting. Everything else needs evidence."
+ },
+ {
+  "icon": "🦘",
+  "latin": "Natura non facit saltus",
+  "pronunciation": "nah-TOO-rah nohn FAH-kit SAHL-toos",
+  "translation": "Nature does not make jumps.",
+  "origin": "An early modern principle of natural philosophy, used by Leibniz and by the botanist Linnaeus in 1751; Darwin quotes it too.",
+  "today": "Change usually happens by small steps, even when it looks sudden from far away."
+ },
+ {
+  "icon": "❤️",
+  "latin": "Omnia vincit amor",
+  "pronunciation": "OM-nee-ah WIN-kit AH-mor",
+  "translation": "Love conquers all.",
+  "origin": "Virgil, Eclogues 10, the last line of the collection, which goes on: and let us too yield to love.",
+  "today": "Usually quoted as a happy ending. In Virgil it is a surrender."
+ },
+ {
+  "icon": "🛠️",
+  "latin": "Labor omnia vicit improbus",
+  "pronunciation": "LAH-bor OM-nee-ah WEE-kit IM-proh-boos",
+  "translation": "Relentless work conquered everything.",
+  "origin": "Virgil, Georgics 1, explaining how humans had to invent farming once Jupiter made life hard. The word improbus means relentless, even wicked.",
+  "today": "Often trimmed to labor omnia vincit and used as a motto of hard work. Virgil meant it with a sigh."
+ },
+ {
+  "icon": "🐴",
+  "latin": "Timeo Danaos et dona ferentes",
+  "pronunciation": "TI-meh-oh DAH-nah-ohs et DOH-nah feh-REN-tays",
+  "translation": "I fear the Greeks, even bearing gifts.",
+  "origin": "Virgil, Aeneid 2, said by the priest Laocoon as the Trojans debate whether to bring the wooden horse inside the walls.",
+  "today": "Be wary of generosity from people who have every reason to harm you."
+ },
+ {
+  "icon": "👑",
+  "latin": "Sic transit gloria mundi",
+  "pronunciation": "seek TRAHN-sit GLOH-ree-ah MOON-dee",
+  "translation": "Thus passes the glory of the world.",
+  "origin": "Spoken at papal coronations from the 15th century, while a bundle of flax was burned before the new pope. It echoes The Imitation of Christ.",
+  "today": "Success fades fast. Enjoy it, and do not mistake it for something permanent."
+ },
+ {
+  "icon": "🗡️",
+  "latin": "Et tu, Brute?",
+  "pronunciation": "et too, BROO-teh",
+  "translation": "You too, Brutus?",
+  "origin": "Not in any ancient source. Suetonius reports that Caesar may have said, in Greek, you too, child? The Latin line was made famous by Shakespeare.",
+  "today": "The cry of anyone betrayed by someone they trusted."
+ },
+ {
+  "icon": "🎬",
+  "latin": "Acta est fabula",
+  "pronunciation": "AHK-tah est FAH-boo-lah",
+  "translation": "The play is over.",
+  "origin": "Traditionally the last words of Augustus. Suetonius actually reports him asking, in Greek verse, whether he had played his part well, and asking for applause.",
+  "today": "Said when something has reached its end and there is nothing more to add."
+ },
+ {
+  "icon": "🎻",
+  "latin": "Qualis artifex pereo",
+  "pronunciation": "KWAH-lis AR-ti-feks PEH-reh-oh",
+  "translation": "What an artist dies in me.",
+  "origin": "Suetonius, Life of Nero: the emperor's repeated lament as he prepared his own suicide in AD 68.",
+  "today": "For anyone whose self-image survives every evidence to the contrary."
+ },
+ {
+  "icon": "🚪",
+  "latin": "Hannibal ad portas",
+  "pronunciation": "HAN-ni-bal ahd POR-tahs",
+  "translation": "Hannibal is at the gates.",
+  "origin": "After Cannae in 216 BC, Romans feared Hannibal would march on the city. Cicero and Livy use the phrase for a danger close at hand.",
+  "today": "Said when a threat is no longer theoretical and it is time to act."
+ },
+ {
+  "icon": "🏛️",
+  "latin": "Carthago delenda est",
+  "pronunciation": "kar-TAH-goh deh-LEN-dah est",
+  "translation": "Carthage must be destroyed.",
+  "origin": "Cato the Elder reportedly ended every speech in the Senate with this demand, whatever the subject. Plutarch tells it in Greek; the Latin formula is later.",
+  "today": "The power, and the obsessiveness, of repeating one point until it wins."
+ },
+ {
+  "icon": "📰",
+  "latin": "Sine ira et studio",
+  "pronunciation": "SEE-neh EE-rah et STOO-dee-oh",
+  "translation": "Without anger or bias.",
+  "origin": "Tacitus, at the start of the Annals, promising to write the history of the emperors without hatred or partisanship.",
+  "today": "The ideal of fair reporting, and a useful test for anything you are about to post."
+ },
+ {
+  "icon": "🏜️",
+  "latin": "Ubi solitudinem faciunt, pacem appellant",
+  "pronunciation": "OO-bee soh-li-TOO-di-nem FAH-kee-oont, PAH-kem ap-PEL-lahnt",
+  "translation": "They make a desert and call it peace.",
+  "origin": "Tacitus, Agricola 30, in a speech he gives to the Caledonian chief Calgacus against Roman conquest.",
+  "today": "Said when the word peace is used to cover destruction."
+ },
+ {
+  "icon": "🔭",
+  "latin": "Omne ignotum pro magnifico",
+  "pronunciation": "OM-neh ig-NOH-toom proh mahg-NI-fi-koh",
+  "translation": "Everything unknown is taken as grand.",
+  "origin": "Tacitus, Agricola 30, in the same speech of Calgacus: the Romans seem more fearsome because they are far away and unknown.",
+  "today": "Distance and mystery inflate reputations. Things look smaller up close."
+ },
+ {
+  "icon": "📚",
+  "latin": "Corruptissima re publica plurimae leges",
+  "pronunciation": "kor-roop-TIS-si-mah reh POO-bli-kah PLOO-ri-my LEH-gays",
+  "translation": "When the state is most corrupt, the laws are most numerous.",
+  "origin": "Tacitus, Annals 3.27, in a digression on how Roman law multiplied as public life decayed.",
+  "today": "A flood of new rules is often a symptom, not a cure."
+ },
+ {
+  "icon": "🌧️",
+  "latin": "Optimum est pati quod emendare non possis",
+  "pronunciation": "OP-ti-moom est PAH-tee kwod eh-men-DAH-reh nohn POS-sis",
+  "translation": "It is best to endure what you cannot change.",
+  "origin": "Seneca, Letters to Lucilius 107, a classic statement of Stoic acceptance.",
+  "today": "Spend your energy on what you can fix, and stop fighting the weather."
+ },
+ {
+  "icon": "🎓",
+  "latin": "Non vitae sed scholae discimus",
+  "pronunciation": "nohn WEE-ty sed SKOH-ly DIS-ki-moos",
+  "translation": "We learn not for life, but for school.",
+  "origin": "Seneca, Letters 106, complaining about philosophy taught as clever puzzles. Teachers later flipped it into the motto non scholae sed vitae.",
+  "today": "The original is the more honest version. Ask whether what you study will survive the exam."
+ },
+ {
+  "icon": "🎒",
+  "latin": "Omnia mea mecum porto",
+  "pronunciation": "OM-nee-ah MEH-ah MAY-koom POR-toh",
+  "translation": "All that is mine I carry with me.",
+  "origin": "Attributed to the Greek sage Bias of Priene as he fled his city without luggage; Cicero quotes it in Latin in the Paradoxa Stoicorum.",
+  "today": "What truly belongs to you is what you know and who you are, not what you own."
+ },
+ {
+  "icon": "🛋️",
+  "latin": "Otium cum dignitate",
+  "pronunciation": "OH-tee-oom koom dig-ni-TAH-teh",
+  "translation": "Leisure with dignity.",
+  "origin": "Cicero, Pro Sestio, describing the goal of good citizens: peace and honour, rest earned after public service.",
+  "today": "The ideal retirement, or a well-earned weekend."
+ },
+ {
+  "icon": "📖",
+  "latin": "Historia magistra vitae",
+  "pronunciation": "his-TOH-ree-ah mah-GIS-trah WEE-ty",
+  "translation": "History is the teacher of life.",
+  "origin": "Cicero, On the Orator, book 2, in a list of praises of history.",
+  "today": "History teaches, the joke goes, but has very few students."
+ },
+ {
+  "icon": "🧮",
+  "latin": "Summum ius, summa iniuria",
+  "pronunciation": "SOOM-moom yoos, SOOM-mah in-YOO-ree-ah",
+  "translation": "The strictest law is the greatest injustice.",
+  "origin": "Cicero, On Duties 1.33, quoting it as an already well-worn proverb.",
+  "today": "Applying rules to the letter, without judgement, can produce the very wrong they were meant to prevent."
+ },
+ {
+  "icon": "🔇",
+  "latin": "Silent enim leges inter arma",
+  "pronunciation": "SI-lent EH-nim LEH-gays IN-ter AR-mah",
+  "translation": "For laws fall silent amid arms.",
+  "origin": "Cicero, Pro Milone 11, arguing that killing in self-defence can be lawful.",
+  "today": "In war and emergencies, rights are the first casualties. A warning, not a permission."
+ },
+ {
+  "icon": "🏟️",
+  "latin": "Salus populi suprema lex esto",
+  "pronunciation": "SAH-loos POP-oo-lee soo-PRAY-mah leks ES-toh",
+  "translation": "Let the welfare of the people be the supreme law.",
+  "origin": "Cicero, On the Laws 3.8, in his model constitution for a republic. It is the motto of the state of Missouri.",
+  "today": "A noble principle, and one that has justified both great reforms and great abuses."
+ },
+ {
+  "icon": "😤",
+  "latin": "Quousque tandem",
+  "pronunciation": "kwoh-OOS-kweh TAN-dem",
+  "translation": "How much longer, then?",
+  "origin": "The opening of Cicero's First Speech against Catiline, 63 BC: how long will you abuse our patience, Catiline?",
+  "today": "The two words to quote when your patience has run out."
+ },
+ {
+  "icon": "✍️",
+  "latin": "Pacta sunt servanda",
+  "pronunciation": "PAHK-tah soont ser-WAN-dah",
+  "translation": "Agreements must be kept.",
+  "origin": "A principle of canon law and later of international law, set out by Hugo Grotius in the 17th century.",
+  "today": "The foundation of every contract and treaty: a promise is binding."
+ },
+ {
+  "icon": "🧑‍⚖️",
+  "latin": "Nemo iudex in causa sua",
+  "pronunciation": "NEH-moh YOO-deks in KOW-sah SOO-ah",
+  "translation": "No one should be judge in their own case.",
+  "origin": "A principle of Roman law, found in Justinian's Code, and a pillar of natural justice ever since.",
+  "today": "The reason conflicts of interest matter, from courts to performance reviews."
+ },
+ {
+  "icon": "👂",
+  "latin": "Audiatur et altera pars",
+  "pronunciation": "ow-dee-AH-toor et AL-teh-rah pars",
+  "translation": "Let the other side be heard too.",
+  "origin": "A principle of Roman and medieval law. Seneca's Medea already says that a judge who rules without hearing both sides is unjust, even if his verdict is right.",
+  "today": "Before you take sides, ask for the other version of the story."
+ },
+ {
+  "icon": "🤫",
+  "latin": "Qui tacet consentire videtur",
+  "pronunciation": "kwee TAH-ket kon-sen-TEE-reh wi-DAY-toor",
+  "translation": "Who stays silent seems to consent.",
+  "origin": "One of the rules of law in the canon law collection of Pope Boniface VIII, 1298. It continues: when he ought and could have spoken.",
+  "today": "Silence is often read as agreement. If you disagree, say so."
+ },
+ {
+  "icon": "🎁",
+  "latin": "Bis dat qui cito dat",
+  "pronunciation": "bis daht kwee KI-toh daht",
+  "translation": "He gives twice who gives quickly.",
+  "origin": "A short form of a line by Publilius Syrus, a former slave whose one-line maxims Romans learned at school: to the poor, quick help is a double gift.",
+  "today": "Help that arrives on time is worth twice as much as help that arrives late."
+ },
+ {
+  "icon": "🔮",
+  "latin": "Fortuna vitrea est: tum cum splendet frangitur",
+  "pronunciation": "for-TOO-nah WI-treh-ah est: toom koom SPLEN-det FRAHN-gi-toor",
+  "translation": "Fortune is made of glass: just when it shines, it breaks.",
+  "origin": "Publilius Syrus, Sentences, 1st century BC.",
+  "today": "The moment of greatest success is also the most fragile one."
+ },
+ {
+  "icon": "😮‍💨",
+  "latin": "Iucundi acti labores",
+  "pronunciation": "yoo-KOON-dee AHK-tee lah-BOH-rays",
+  "translation": "Labours are pleasant once completed.",
+  "origin": "Cicero, On Ends 2.105, quoting it as a proverb.",
+  "today": "The hard project always looks better in the rear-view mirror."
+ },
+ {
+  "icon": "🕊️",
+  "latin": "Cedant arma togae",
+  "pronunciation": "KEH-dahnt AR-mah TOH-gy",
+  "translation": "Let arms yield to the toga.",
+  "origin": "A line from Cicero's own poem on his consulship, quoted in On Duties 1.77. The toga stands for civilian government.",
+  "today": "Civilian authority must stand above the military."
+ },
+ {
+  "icon": "🫴",
+  "latin": "Do ut des",
+  "pronunciation": "doh oot days",
+  "translation": "I give so that you give.",
+  "origin": "A Roman legal formula for exchange contracts, also used to describe Roman religion as a bargain with the gods.",
+  "today": "Most favours come with an invoice, stated or not."
+ },
+ {
+  "icon": "🦷",
+  "latin": "Oculum pro oculo, dentem pro dente",
+  "pronunciation": "OH-koo-loom proh OH-koo-loh, DEN-tem proh DEN-teh",
+  "translation": "An eye for an eye, a tooth for a tooth.",
+  "origin": "The Vulgate, Exodus 21:24, from the ancient law of retaliation, which originally capped revenge at an equal harm.",
+  "today": "Meant as a limit on vengeance, often quoted as a licence for it."
+ },
+ {
+  "icon": "🫧",
+  "latin": "Vanitas vanitatum, et omnia vanitas",
+  "pronunciation": "WAH-ni-tahs wah-ni-TAH-toom, et OM-nee-ah WAH-ni-tahs",
+  "translation": "Vanity of vanities, all is vanity.",
+  "origin": "The Vulgate, Ecclesiastes 1:2. Vanitas means emptiness, a breath of air.",
+  "today": "A reminder that status, possessions and applause weigh less than they seem."
+ },
+ {
+  "icon": "☀️",
+  "latin": "Nihil sub sole novum",
+  "pronunciation": "NEE-hil soob SOH-leh NOH-woom",
+  "translation": "Nothing new under the sun.",
+  "origin": "The Vulgate, Ecclesiastes 1:9.",
+  "today": "Most hot takes, scandals and startups have a precedent. Look it up before you panic."
+ },
+ {
+  "icon": "🩺",
+  "latin": "Medice, cura te ipsum",
+  "pronunciation": "MEH-di-keh, KOO-rah teh IP-soom",
+  "translation": "Physician, heal yourself.",
+  "origin": "The Vulgate, Luke 4:23, a proverb Jesus expects his hometown to throw at him.",
+  "today": "Before you advise others, fix the same problem in your own house."
+ },
+ {
+  "icon": "🛣️",
+  "latin": "Quo vadis?",
+  "pronunciation": "kwoh WAH-dis",
+  "translation": "Where are you going?",
+  "origin": "From the Vulgate, John 13:36, and above all the apocryphal Acts of Peter: fleeing Rome, Peter meets Christ and asks Domine, quo vadis? He turns back to face martyrdom.",
+  "today": "A question worth asking of any plan, career or company."
+ },
+ {
+  "icon": "🌫️",
+  "latin": "Pulvis es et in pulverem reverteris",
+  "pronunciation": "POOL-wis es et in POOL-weh-rem reh-WER-teh-ris",
+  "translation": "You are dust, and to dust you shall return.",
+  "origin": "The Vulgate, Genesis 3:19, God to Adam after the Fall. Repeated every Ash Wednesday.",
+  "today": "The original memento mori, two thousand years older."
+ },
+ {
+  "icon": "🔪",
+  "latin": "Omnes qui acceperint gladium, gladio peribunt",
+  "pronunciation": "OM-nays kwee ahk-KEH-peh-rint GLAH-dee-oom, GLAH-dee-oh peh-REE-boont",
+  "translation": "All who take the sword will perish by the sword.",
+  "origin": "The Vulgate, Matthew 26:52, Jesus to Peter after Peter cuts off a servant's ear at the arrest in Gethsemane.",
+  "today": "Violence tends to come back to the one who starts it."
+ },
+ {
+  "icon": "🍩",
+  "latin": "Spiritus quidem promptus est, caro autem infirma",
+  "pronunciation": "SPEE-ri-toos KWI-dem PROMP-toos est, KAH-roh OW-tem in-FIR-mah",
+  "translation": "The spirit is willing, but the flesh is weak.",
+  "origin": "The Vulgate, Matthew 26:41, Jesus finding his disciples asleep in Gethsemane.",
+  "today": "Good intentions, meet the second slice of cake."
+ },
+ {
+  "icon": "🏠",
+  "latin": "Nemo propheta acceptus est in patria sua",
+  "pronunciation": "NEH-moh proh-FAY-tah ahk-KEP-toos est in PAH-tree-ah SOO-ah",
+  "translation": "No prophet is accepted in his own country.",
+  "origin": "The Vulgate, Luke 4:24, Jesus on being rejected in Nazareth.",
+  "today": "The people who knew you before are often the last to take you seriously."
+ },
+ {
+  "icon": "🗣️",
+  "latin": "Ex abundantia cordis os loquitur",
+  "pronunciation": "eks ah-boon-DAN-tee-ah KOR-dis ohs LOH-kwi-toor",
+  "translation": "The mouth speaks from the fullness of the heart.",
+  "origin": "The Vulgate, Matthew 12:34.",
+  "today": "What people talk about most tells you what they care about most."
+ },
+ {
+  "icon": "🦊",
+  "latin": "Vulpes pilum mutat, non mores",
+  "pronunciation": "WOOL-pays PEE-loom MOO-taht, nohn MOH-rays",
+  "translation": "The fox changes its fur, not its habits.",
+  "origin": "Suetonius, Life of Vespasian, where a herdsman throws the proverb at the emperor over his greed.",
+  "today": "People can change their look much faster than their character."
+ },
+ {
+  "icon": "🫏",
+  "latin": "Asinus asinum fricat",
+  "pronunciation": "AH-si-noos AH-si-noom FRI-kaht",
+  "translation": "The donkey rubs the donkey.",
+  "origin": "A medieval proverb about donkeys scratching each other's backs.",
+  "today": "Said of mediocre people who flatter each other in public."
+ },
+ {
+  "icon": "🧼",
+  "latin": "Manus manum lavat",
+  "pronunciation": "MAH-noos MAH-noom LAH-waht",
+  "translation": "One hand washes the other.",
+  "origin": "Used by Petronius in the Satyricon and by Seneca in his satire on the emperor Claudius; it translates an older Greek proverb.",
+  "today": "Favours are exchanged. Sometimes that is teamwork, sometimes it is corruption."
+ },
+ {
+  "icon": "🦅",
+  "latin": "Aquila non capit muscas",
+  "pronunciation": "AH-kwi-lah nohn KAH-pit MOOS-kahs",
+  "translation": "The eagle does not catch flies.",
+  "origin": "A medieval and Renaissance proverb.",
+  "today": "Do not waste your energy on petty quarrels beneath your level."
+ },
+ {
+  "icon": "📅",
+  "latin": "Ad Kalendas Graecas",
+  "pronunciation": "ahd kah-LEN-dahs GRY-kahs",
+  "translation": "On the Greek Kalends.",
+  "origin": "Suetonius says Augustus used it for debts that would never be paid: the Kalends were Roman, and the Greek calendar had none.",
+  "today": "The Latin for when pigs fly."
+ },
+ {
+  "icon": "👞",
+  "latin": "Ne sutor ultra crepidam",
+  "pronunciation": "neh SOO-tor OOL-trah KREH-pi-dahm",
+  "translation": "Shoemaker, not above the sandal.",
+  "origin": "Pliny the Elder: a shoemaker correctly criticised a sandal in a painting by Apelles, then started criticising the leg, and the painter put him in his place.",
+  "today": "Stick to what you know before you correct the experts."
+ },
+ {
+  "icon": "✏️",
+  "latin": "Nulla dies sine linea",
+  "pronunciation": "NOOL-lah DEE-ays SEE-neh LEE-neh-ah",
+  "translation": "No day without a line.",
+  "origin": "Pliny the Elder says the painter Apelles never let a day pass without drawing at least one line. The phrase itself was coined later, from his account.",
+  "today": "Small daily practice beats occasional bursts of inspiration."
+ },
+ {
+  "icon": "🧭",
+  "latin": "Plus ultra",
+  "pronunciation": "ploos OOL-trah",
+  "translation": "Further beyond.",
+  "origin": "Motto of Emperor Charles V from 1516, defying the old warning that nothing lay beyond the Pillars of Hercules. It is still on the coat of arms of Spain.",
+  "today": "Do not accept the edge of the map as the edge of the world."
+ },
+ {
+  "icon": "🎖️",
+  "latin": "Dulce et decorum est pro patria mori",
+  "pronunciation": "DOOL-keh et deh-KOH-room est proh PAH-tree-ah MOH-ree",
+  "translation": "It is sweet and fitting to die for one's country.",
+  "origin": "Horace, Odes 3.2. In 1917 the soldier-poet Wilfred Owen called it the old lie, in his poem about a gas attack.",
+  "today": "Quoted today as often in Owen's bitter sense as in Horace's."
+ },
+ {
+  "icon": "🪙",
+  "latin": "Aurea mediocritas",
+  "pronunciation": "OW-reh-ah meh-dee-OH-kri-tahs",
+  "translation": "The golden mean.",
+  "origin": "Horace, Odes 2.10: whoever loves the golden mean avoids both a squalid hovel and an envied palace.",
+  "today": "Not mediocrity, but balance: enough, without excess."
+ },
+ {
+  "icon": "😐",
+  "latin": "Nil admirari",
+  "pronunciation": "neel ahd-mee-RAH-ree",
+  "translation": "Be astonished by nothing.",
+  "origin": "Horace, Epistles 1.6, presenting calm detachment as the key to a happy life.",
+  "today": "The Stoic version of keep calm, and the cynic's excuse for never being impressed."
+ },
+ {
+  "icon": "🐭",
+  "latin": "Parturient montes, nascetur ridiculus mus",
+  "pronunciation": "par-TOO-ree-ent MON-tays, nahs-KAY-toor ri-DI-koo-loos moos",
+  "translation": "The mountains will be in labour, and a ridiculous mouse will be born.",
+  "origin": "Horace, Art of Poetry, mocking poets who promise epic grandeur and deliver very little.",
+  "today": "For any huge announcement that ends in a tiny result."
+ },
+ {
+  "icon": "😡",
+  "latin": "Ira furor brevis est",
+  "pronunciation": "EE-rah FOO-ror BREH-wis est",
+  "translation": "Anger is a brief madness.",
+  "origin": "Horace, Epistles 1.2, advising his young friend to rule his temper before it rules him.",
+  "today": "Do not send the email while you are angry."
+ },
+ {
+  "icon": "🍃",
+  "latin": "Naturam expelles furca, tamen usque recurret",
+  "pronunciation": "nah-TOO-rahm eks-PEL-lays FOOR-kah, TAH-men OOS-kweh reh-KOOR-ret",
+  "translation": "Drive out nature with a pitchfork, it will still come back.",
+  "origin": "Horace, Epistles 1.10, praising country life over the city.",
+  "today": "Character and habits return, however hard you push them away."
+ },
+ {
+  "icon": "✈️",
+  "latin": "Caelum, non animum, mutant qui trans mare currunt",
+  "pronunciation": "KY-loom, nohn AH-ni-moom, MOO-tahnt kwee trahns MAH-reh KOOR-roont",
+  "translation": "Those who rush across the sea change their sky, not their soul.",
+  "origin": "Horace, Epistles 1.11, to a restless friend touring the Greek islands.",
+  "today": "Travel changes the scenery. Your problems fly with you."
+ },
+ {
+  "icon": "📏",
+  "latin": "Est modus in rebus",
+  "pronunciation": "est MOH-doos in RAY-boos",
+  "translation": "There is a measure in things.",
+  "origin": "Horace, Satires 1.1: there are fixed limits, beyond and short of which what is right cannot stand.",
+  "today": "Most virtues turn into vices when pushed too far."
+ },
+ {
+  "icon": "🌑",
+  "latin": "Pulvis et umbra sumus",
+  "pronunciation": "POOL-wis et OOM-brah SOO-moos",
+  "translation": "We are dust and shadow.",
+  "origin": "Horace, Odes 4.7, a spring poem that turns into a meditation on death.",
+  "today": "Perspective in four words."
+ },
+ {
+  "icon": "🍂",
+  "latin": "Eheu fugaces, Postume, Postume, labuntur anni",
+  "pronunciation": "EH-heh-oo foo-GAH-kays, POS-too-meh, POS-too-meh, lah-BOON-toor AHN-nee",
+  "translation": "Alas, Postumus, Postumus, the fleeting years slip by.",
+  "origin": "The opening of Horace, Odes 2.14, addressed to a friend who cannot stop time with any amount of piety.",
+  "today": "The feeling you get on every birthday after thirty."
+ },
+ {
+  "icon": "😢",
+  "latin": "Sunt lacrimae rerum",
+  "pronunciation": "soont LAH-kri-my RAY-room",
+  "translation": "There are tears in things.",
+  "origin": "Virgil, Aeneid 1: Aeneas, in Carthage, sees the Trojan War painted on a temple wall and weeps.",
+  "today": "The world itself has a sadness, and great art lets us feel it."
+ },
+ {
+  "icon": "📷",
+  "latin": "Forsan et haec olim meminisse iuvabit",
+  "pronunciation": "FOR-sahn et hyk OH-lim meh-mi-NIS-seh yoo-WAH-bit",
+  "translation": "Perhaps one day it will be pleasing to remember even this.",
+  "origin": "Virgil, Aeneid 1, Aeneas comforting his shipwrecked companions.",
+  "today": "Today's disaster may be tomorrow's best story."
+ },
+ {
+  "icon": "⬇️",
+  "latin": "Facilis descensus Averno",
+  "pronunciation": "FAH-ki-lis days-KEN-soos ah-WER-noh",
+  "translation": "The descent to the underworld is easy.",
+  "origin": "Virgil, Aeneid 6, the Sibyl warning Aeneas: going down is easy, coming back up is the real work.",
+  "today": "Getting into trouble takes a moment. Getting out takes effort."
+ },
+ {
+  "icon": "🔬",
+  "latin": "Felix qui potuit rerum cognoscere causas",
+  "pronunciation": "FAY-liks kwee POH-too-it RAY-room kog-NOS-keh-reh KOW-sahs",
+  "translation": "Happy is he who could learn the causes of things.",
+  "origin": "Virgil, Georgics 2, often read as a tribute to Lucretius and his scientific view of the world.",
+  "today": "Understanding why things happen is one of the quieter forms of happiness."
+ },
+ {
+  "icon": "🤑",
+  "latin": "Auri sacra fames",
+  "pronunciation": "OW-ree SAH-krah FAH-mays",
+  "translation": "The accursed hunger for gold.",
+  "origin": "Virgil, Aeneid 3, after the story of a Trojan prince murdered for his treasure: to what do you not drive mortal hearts?",
+  "today": "Sacra here means accursed. Greed has not changed its methods."
+ },
+ {
+  "icon": "🍰",
+  "latin": "Video meliora proboque, deteriora sequor",
+  "pronunciation": "WI-deh-oh meh-lee-OH-rah proh-BOH-kweh, deh-teh-ree-OH-rah SEH-kwor",
+  "translation": "I see the better and approve it; I follow the worse.",
+  "origin": "Ovid, Metamorphoses 7, Medea torn between duty and her passion for Jason.",
+  "today": "The classic description of knowing what is right and doing the opposite."
+ },
+ {
+  "icon": "🍽️",
+  "latin": "Tempus edax rerum",
+  "pronunciation": "TEM-poos EH-dahks RAY-room",
+  "translation": "Time, devourer of things.",
+  "origin": "Ovid, Metamorphoses 15, in the speech of Pythagoras on how everything changes.",
+  "today": "Nothing escapes time. Build things that age well."
+ },
+ {
+  "icon": "🌱",
+  "latin": "Principiis obsta",
+  "pronunciation": "prin-KI-pee-ees OB-stah",
+  "translation": "Resist the beginnings.",
+  "origin": "Ovid, Remedies for Love: stop a passion at the start, before it grows too strong to cure.",
+  "today": "Habits, debts and bad ideas are easiest to stop on day one."
+ },
+ {
+  "icon": "👥",
+  "latin": "Donec eris felix, multos numerabis amicos",
+  "pronunciation": "DOH-nek EH-ris FAY-liks, MOOL-tohs noo-meh-RAH-bis ah-MEE-kohs",
+  "translation": "As long as you are lucky, you will count many friends.",
+  "origin": "Ovid, Sorrows (Tristia) 1.9, written in exile, when most friends had disappeared.",
+  "today": "You learn who your friends are when things go badly."
+ },
+ {
+  "icon": "🫥",
+  "latin": "Bene qui latuit, bene vixit",
+  "pronunciation": "BEH-neh kwee LAH-too-it, BEH-neh WIK-sit",
+  "translation": "He who has hidden well has lived well.",
+  "origin": "Ovid, Sorrows (Tristia) 3.4, from exile, after his fame had ruined him. It echoes the Greek advice of Epicurus to live unnoticed.",
+  "today": "A case for a quiet life in a loud age."
+ },
+ {
+  "icon": "💘",
+  "latin": "Res est solliciti plena timoris amor",
+  "pronunciation": "rays est sol-LI-ki-tee PLAY-nah ti-MOH-ris AH-mor",
+  "translation": "Love is a thing full of anxious fear.",
+  "origin": "Ovid, Heroines 1, Penelope writing to the absent Ulysses.",
+  "today": "Anyone who has waited for a reply knows."
+ },
+ {
+  "icon": "🦁",
+  "latin": "Gravis ira regum est semper",
+  "pronunciation": "GRAH-wis EE-rah RAY-goom est SEM-per",
+  "translation": "The anger of kings is always heavy.",
+  "origin": "Seneca, Medea, in a warning about provoking the powerful.",
+  "today": "The bigger the boss, the more expensive the tantrum."
+ },
+ {
+  "icon": "⭐",
+  "latin": "Per aspera ad astra",
+  "pronunciation": "per AHS-peh-rah ahd AHS-trah",
+  "translation": "Through hardship to the stars.",
+  "origin": "A later motto, not a classical quotation. The idea comes from Seneca's Hercules Furens: there is no easy way from the earth to the stars.",
+  "today": "Anything high is reached the hard way."
+ },
+ {
+  "icon": "⌛",
+  "latin": "Omnia aliena sunt, tempus tantum nostrum est",
+  "pronunciation": "OM-nee-ah ah-lee-AY-nah soont, TEM-poos TAN-toom NOS-troom est",
+  "translation": "Everything else belongs to others; only time is ours.",
+  "origin": "Seneca, Letters to Lucilius 1, the opening letter of the collection.",
+  "today": "Guard your time more carefully than your money."
+ },
+ {
+  "icon": "🐌",
+  "latin": "Dum differtur vita transcurrit",
+  "pronunciation": "doom DIF-fer-toor WEE-tah trahns-KOOR-rit",
+  "translation": "While we postpone, life speeds by.",
+  "origin": "Seneca, Letters to Lucilius 1.",
+  "today": "The plan to start living later is the most common plan of all."
+ },
+ {
+  "icon": "🧑‍🏫",
+  "latin": "Docendo discimus",
+  "pronunciation": "doh-KEN-doh DIS-ki-moos",
+  "translation": "By teaching, we learn.",
+  "origin": "Condensed from Seneca, Letters 7: people learn while they teach.",
+  "today": "Explain something to someone else and you will discover how well you know it."
+ },
+ {
+  "icon": "😌",
+  "latin": "Quod sis esse velis nihilque malis",
+  "pronunciation": "kwod sees ES-seh WEH-lis nee-HIL-kweh MAH-lees",
+  "translation": "Want to be what you are, and prefer nothing else.",
+  "origin": "Martial, Epigrams 10.47, a recipe for the happy life.",
+  "today": "Contentment is not having everything. It is not wanting to be someone else."
+ },
+ {
+  "icon": "🩹",
+  "latin": "Non est vivere, sed valere vita est",
+  "pronunciation": "nohn est WEE-weh-reh, sed wah-LAY-reh WEE-tah est",
+  "translation": "Life is not just living, but being well.",
+  "origin": "Martial, Epigrams 6.70.",
+  "today": "A long life is worth little without health to enjoy it."
+ },
+ {
+  "icon": "🌅",
+  "latin": "Sera nimis vita est crastina: vive hodie",
+  "pronunciation": "SEH-rah NI-mis WEE-tah est KRAHS-ti-nah: WEE-weh HOH-dee-eh",
+  "translation": "Tomorrow's life is too late: live today.",
+  "origin": "Martial, Epigrams 1.15, to a friend who keeps postponing enjoyment.",
+  "today": "Martial's sharper version of carpe diem."
+ },
+ {
+  "icon": "🥶",
+  "latin": "Probitas laudatur et alget",
+  "pronunciation": "PROH-bi-tahs low-DAH-toor et AL-get",
+  "translation": "Honesty is praised, and left out in the cold.",
+  "origin": "Juvenal, Satires 1, on a Rome where vice gets rich.",
+  "today": "Everyone applauds integrity. Few pay for it."
+ },
+ {
+  "icon": "🦢",
+  "latin": "Rara avis",
+  "pronunciation": "RAH-rah AH-wis",
+  "translation": "A rare bird.",
+  "origin": "Juvenal, Satires 6: a perfect wife is a rare bird on earth, as rare as a black swan.",
+  "today": "Something or someone truly exceptional. Black swans, it turned out, exist."
+ },
+ {
+  "icon": "🧒",
+  "latin": "Maxima debetur puero reverentia",
+  "pronunciation": "MAHK-si-mah deh-BAY-toor POO-eh-roh reh-weh-REN-tee-ah",
+  "translation": "The greatest respect is owed to a child.",
+  "origin": "Juvenal, Satires 14, warning parents that children copy their vices.",
+  "today": "Kids learn more from what you do than from what you say."
+ },
+ {
+  "icon": "✒️",
+  "latin": "Facit indignatio versum",
+  "pronunciation": "FAH-kit in-dig-NAH-tee-oh WER-soom",
+  "translation": "Indignation makes the verse.",
+  "origin": "Juvenal, Satires 1: even without talent, outrage at Rome's corruption makes him write poetry.",
+  "today": "Anger is a powerful engine for writing, and for social media."
+ },
+ {
+  "icon": "🎶",
+  "latin": "Cantabit vacuus coram latrone viator",
+  "pronunciation": "kahn-TAH-bit WAH-koo-oos KOH-rahm lah-TROH-neh wee-AH-tor",
+  "translation": "The traveller with empty pockets will sing in front of the robber.",
+  "origin": "Juvenal, Satires 10, on how wealth brings fear.",
+  "today": "The less you have, the less you have to lose."
+ },
+ {
+  "icon": "🖋️",
+  "latin": "Difficile est saturam non scribere",
+  "pronunciation": "dif-FI-ki-leh est SAH-too-rahm nohn SKREE-beh-reh",
+  "translation": "It is hard not to write satire.",
+  "origin": "Juvenal, Satires 1, looking at the absurdities of Rome.",
+  "today": "Some days the news writes the jokes for you."
+ },
+ {
+  "icon": "📉",
+  "latin": "Nemo repente fuit turpissimus",
+  "pronunciation": "NEH-moh reh-PEN-teh FOO-it toor-PIS-si-moos",
+  "translation": "No one became utterly vile all at once.",
+  "origin": "Juvenal, Satires 2.",
+  "today": "Moral decline happens in small steps. Watch the small ones."
+ },
+ {
+  "icon": "🗳️",
+  "latin": "Quot homines, tot sententiae",
+  "pronunciation": "kwot HOH-mi-nays, tot sen-TEN-tee-eye",
+  "translation": "As many people, so many opinions.",
+  "origin": "Terence, Phormio, in a comic scene where three advisers give three different answers.",
+  "today": "Ask a committee and you will get one opinion per member."
+ },
+ {
+  "icon": "🔂",
+  "latin": "Nullum est iam dictum quod non sit dictum prius",
+  "pronunciation": "NOOL-loom est yahm DIK-toom kwod nohn sit DIK-toom PREE-oos",
+  "translation": "Nothing is said now that has not been said before.",
+  "origin": "Terence, prologue to The Eunuch, defending himself against charges of copying.",
+  "today": "Originality is rare. Good execution is what counts."
+ },
+ {
+  "icon": "🧩",
+  "latin": "Dictum sapienti sat est",
+  "pronunciation": "DIK-toom sah-pee-EN-tee saht est",
+  "translation": "A word to the wise is enough.",
+  "origin": "Plautus, The Persian, and Terence, Phormio; abbreviated as verbum sap.",
+  "today": "Clever people do not need everything spelled out."
+ },
+ {
+  "icon": "🏷️",
+  "latin": "Nomen est omen",
+  "pronunciation": "NOH-men est OH-men",
+  "translation": "The name is a sign.",
+  "origin": "Derived from Plautus, The Persian, where a character's name, Lucris, is taken as a good omen of profit.",
+  "today": "Names shape expectations. Choose them carefully, for products and children."
+ },
+ {
+  "icon": "🫗",
+  "latin": "Oleum et operam perdidi",
+  "pronunciation": "OH-leh-oom et OH-peh-rahm PER-di-dee",
+  "translation": "I have wasted my oil and my effort.",
+  "origin": "Plautus, The Little Carthaginian; the oil is lamp oil burned while working late.",
+  "today": "For hours of work that came to nothing."
+ },
+ {
+  "icon": "⏰",
+  "latin": "Mors certa, hora incerta",
+  "pronunciation": "mors KER-tah, HOH-rah in-KER-tah",
+  "translation": "Death is certain, its hour uncertain.",
+  "origin": "A medieval proverb, often written on sundials and church clocks.",
+  "today": "Since you do not know when, do not leave the important things for later."
+ },
+ {
+  "icon": "📨",
+  "latin": "Verba volant, scripta manent",
+  "pronunciation": "WER-bah WOH-lahnt, SKRIP-tah MAH-nent",
+  "translation": "Spoken words fly away, written ones remain.",
+  "origin": "A medieval proverb, sometimes linked to a speech by a Roman senator Caius Titus, but that origin is not attested.",
+  "today": "Get it in writing. And the reason this channel has its name."
+ },
+ {
+  "icon": "💌",
+  "latin": "Si vis amari, ama",
+  "pronunciation": "see wees ah-MAH-ree, AH-mah",
+  "translation": "If you want to be loved, love.",
+  "origin": "Seneca, Letters 9, quoting the Stoic philosopher Hecato: he promises a love potion without drugs or spells.",
+  "today": "The only reliable recipe."
+ },
+ {
+  "icon": "🧔",
+  "latin": "Barba non facit philosophum",
+  "pronunciation": "BAR-bah nohn FAH-kit fee-LOH-soh-foom",
+  "translation": "A beard does not make a philosopher.",
+  "origin": "A medieval proverb, echoing Plutarch and Aulus Gellius on men who looked like philosophers but were not.",
+  "today": "Looking the part is not the same as knowing the job."
+ },
+ {
+  "icon": "🧥",
+  "latin": "Cucullus non facit monachum",
+  "pronunciation": "koo-KOOL-loos nohn FAH-kit MOH-nah-koom",
+  "translation": "The hood does not make the monk.",
+  "origin": "A medieval proverb; Shakespeare quotes it in Twelfth Night.",
+  "today": "Titles and uniforms prove nothing about the person wearing them."
+ },
+ {
+  "icon": "🌬️",
+  "latin": "Dum spiro, spero",
+  "pronunciation": "doom SPEE-roh, SPEH-roh",
+  "translation": "While I breathe, I hope.",
+  "origin": "A motto of uncertain origin, echoing Cicero's letters to Atticus: while there is life, there is said to be hope. It is the motto of South Carolina.",
+  "today": "As long as you are still in the game, it is not over."
+ },
+ {
+  "icon": "🙋",
+  "latin": "Excusatio non petita, accusatio manifesta",
+  "pronunciation": "eks-koo-SAH-tee-oh nohn peh-TEE-tah, ahk-koo-SAH-tee-oh mah-ni-FES-tah",
+  "translation": "An excuse not asked for is an obvious accusation.",
+  "origin": "A medieval legal maxim.",
+  "today": "If you defend yourself before anyone accuses you, people will wonder why."
+ },
+ {
+  "icon": "🐖",
+  "latin": "Nolite mittere margaritas ante porcos",
+  "pronunciation": "noh-LEE-teh MIT-teh-reh mar-gah-REE-tahs AHN-teh POR-kohs",
+  "translation": "Do not cast pearls before swine.",
+  "origin": "The Vulgate, Matthew 7:6, from the Sermon on the Mount.",
+  "today": "Do not waste good things on people who cannot appreciate them."
+ },
+ {
+  "icon": "💊",
+  "latin": "Primum non nocere",
+  "pronunciation": "PREE-moom nohn noh-KAY-reh",
+  "translation": "First, do no harm.",
+  "origin": "Not in the Hippocratic Oath. The idea is in the Hippocratic Epidemics; the Latin formula appears in the 19th century.",
+  "today": "Before trying to fix something, make sure you are not making it worse."
+ },
+ {
+  "icon": "🐦",
+  "latin": "Fama crescit eundo",
+  "pronunciation": "FAH-mah KRES-kit eh-OON-doh",
+  "translation": "Rumour grows as it goes.",
+  "origin": "Adapted from Virgil, Aeneid 4, where Rumour is a monster that gathers strength as it travels.",
+  "today": "By the time a story reaches you, it has usually grown."
+ },
+ {
+  "icon": "⛪",
+  "latin": "Credo quia absurdum",
+  "pronunciation": "KRAY-doh KWEE-ah ab-SOOR-doom",
+  "translation": "I believe because it is absurd.",
+  "origin": "Misattributed to Tertullian. What he wrote, about the death of Christ, is that it is credible because it is foolish.",
+  "today": "Now used for belief that ignores evidence, often unfairly to Tertullian."
+ },
+ {
+  "icon": "🌪️",
+  "latin": "Calamitas virtutis occasio est",
+  "pronunciation": "kah-LAH-mi-tahs wir-TOO-tis ok-KAH-see-oh est",
+  "translation": "Disaster is virtue's opportunity.",
+  "origin": "Seneca, On Providence 4.",
+  "today": "Character shows in a crisis, not in calm weather."
+ },
+ {
+  "icon": "🏁",
+  "latin": "Dimidium facti qui coepit habet",
+  "pronunciation": "di-MI-dee-oom FAHK-tee kwee KOY-pit HAH-bet",
+  "translation": "Who has begun has half done.",
+  "origin": "Horace, Epistles 1.2, the line just before sapere aude.",
+  "today": "Starting is the hardest part. Start."
+ },
+ {
+  "icon": "🫠",
+  "latin": "Male parta male dilabuntur",
+  "pronunciation": "MAH-leh PAR-tah MAH-leh dee-lah-BOON-toor",
+  "translation": "What is badly gained is badly lost.",
+  "origin": "A line of the early Roman poet Naevius, quoted by Cicero in the Second Philippic against Mark Antony.",
+  "today": "Easy, dishonest money rarely stays."
+ },
+ {
+  "icon": "🐂",
+  "latin": "Quod licet Iovi, non licet bovi",
+  "pronunciation": "kwod LI-ket YOH-wee, nohn LI-ket BOH-wee",
+  "translation": "What is allowed to Jupiter is not allowed to the ox.",
+  "origin": "A medieval proverb, recalling the myth of Jupiter turning into a bull.",
+  "today": "Rules often differ for the powerful. Said with resignation or irritation."
+ },
+ {
+  "icon": "🎤",
+  "latin": "Rem tene, verba sequentur",
+  "pronunciation": "rem TEH-neh, WER-bah seh-KWEN-toor",
+  "translation": "Grasp the subject, the words will follow.",
+  "origin": "Cato the Elder, in advice on public speaking preserved by a later writer on rhetoric.",
+  "today": "Know your material and you will not need a script."
  }
 ]
