@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Verba Volant: one Latin saying every morning</title>
+<meta name="description" content="One Latin saying every morning on Telegram, with translation, pronunciation and the story behind it.">
+<meta property="og:title" content="Verba Volant: one Latin saying every morning">
+<meta property="og:description" content="One Latin saying every morning on Telegram, with translation, pronunciation and the story behind it.">
+<meta property="og:type" content="website">
+<style>
+@font-face{font-family:Garamond;src:url(fonts/eb-garamond-latin-wght-normal.woff2) format("woff2");font-weight:400 800;font-display:swap}
+@font-face{font-family:Garamond;src:url(fonts/eb-garamond-latin-wght-italic.woff2) format("woff2");font-weight:400 800;font-style:italic;font-display:swap}
+:root{--bg:#fff;--ink:#141414;--soft:#757575;--line:#e6e6e6}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--ink:#ededed;--soft:#8f8f8f;--line:#2c2c2c}}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--ink);font:20px/1.6 Garamond,Georgia,serif}
+main{max-width:600px;margin:0 auto;padding:clamp(40px,11vh,120px) 24px 48px}
+.name{font-size:20px;font-weight:500}
+.about{color:var(--soft);margin-top:2px}
+.saying{margin-top:clamp(56px,13vh,128px)}
+.latin{font-feature-settings:"locl" 0;font-size:clamp(34px,7.4vw,52px);line-height:1.12;font-weight:400;letter-spacing:-.01em}
+.english{font-size:23px;margin-top:14px}
+.sound{font-style:italic;color:var(--soft);margin-top:10px}
+.story{margin-top:18px;min-height:6.4em}
+.actions{display:flex;flex-wrap:wrap;align-items:center;gap:14px 28px;margin-top:28px}
+.join{background:var(--ink);color:var(--bg);text-decoration:none;font-weight:500;padding:12px 24px;border-radius:999px}
+.join:hover{opacity:.82}
+.next{background:none;border:0;padding:0;color:var(--ink);font:inherit;cursor:pointer;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:5px}
+.next:hover{text-decoration-color:var(--ink)}
+.join:focus-visible,.next:focus-visible{outline:2px solid var(--ink);outline-offset:4px}
+footer{margin-top:clamp(64px,14vh,140px);padding-top:18px;border-top:1px solid var(--line);color:var(--soft);font-size:17px}
+</style>
+</head>
+<body>
+<main>
+  <p class="name">Verba Volant</p>
+  <p class="about">One Latin saying every morning, on Telegram.</p>
+
+  <section class="saying" aria-live="polite">
+    <h1 class="latin" id="latin" lang="la">Vae victis</h1>
+    <p class="sound" id="sound">wy WIK-tis</p>
+    <p class="english" id="english">“Woe to the vanquished.”</p>
+    <p class="story" id="story">According to Livy, the Gallic chief Brennus said it after sacking Rome, throwing his sword on the scale as the ransom was weighed. The winner writes the rules.</p>
+  </section>
+
+  <div class="actions">
+    <a class="join" href="https://t.me/verbavolant">Join on Telegram</a>
+    <button class="next" id="next" type="button">Show another saying</button>
+  </div>
+
+  <footer>Free. One message a day at 9:00, Rome time. To stop, leave the channel.</footer>
+</main>
+<script>
+const S=[
+["Vae victis","Woe to the vanquished.","wy WIK-tis","According to Livy, the Gallic chief Brennus said it after sacking Rome, throwing his sword on the scale as the ransom was weighed. The winner writes the rules."],
+["Mundus vult decipi, ergo decipiatur","The world wants to be deceived, so let it be deceived.","MOON-doos woolt DEH-ki-pee, ER-goh deh-ki-pee-AH-toor","Of uncertain origin, often attributed to Petronius. A cynic's business plan: if people prefer the illusion, sell them the illusion."],
+["Quis custodiet ipsos custodes?","Who will guard the guards themselves?","kwiss koo-STOH-dee-et IP-sohs koo-STOH-dayss","Juvenal, Satires 6, originally about keeping wives faithful. Now used for any power with nobody checking it."],
+["Pecunia non olet","Money does not stink.","peh-KOO-nee-ah nohn OH-let","Attributed to Emperor Vespasian, who taxed public urinals and held a coin under his son's nose to prove the point. It does not matter where the money comes from."],
+["Festina lente","Make haste slowly.","fes-TEE-nah LEN-teh","Suetonius reports it as a favourite saying of Emperor Augustus. Speed and care are not opposites; rushing usually costs time."],
+["Gutta cavat lapidem","A drop hollows out the stone.","GOOT-tah KAH-waht LAH-pi-dem","Ovid, Letters from Pontus, which continues: not by force but by falling often. Persistence beats strength, given enough time."]
+];let n=0;
+const $=id=>document.getElementById(id);
+$("next").onclick=()=>{n=(n+1)%S.length;const s=S[n];
+  $("latin").textContent=s[0];
+  $("english").textContent="“"+s[1]+"”";$("sound").textContent=s[2];$("story").textContent=s[3];};
+</script>
+</body>
+</html>
