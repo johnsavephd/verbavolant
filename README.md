@@ -1,5 +1,5 @@
 # Verba Volant
-Every morning at 9:00 (Rome): a random Latin saying with translation, pronunciation and context, on Telegram.
+Every morning (from 7:30 Rome time, GitHub may delay it): a random Latin saying with translation, pronunciation and context, on Telegram.
 
 ## Setup
 1. Telegram: scrivi a @BotFather → /newbot → copia il token. Scrivi un messaggio al tuo bot, poi apri

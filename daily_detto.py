@@ -11,10 +11,10 @@ DRY_RUN = os.environ.get("DRY_RUN") == "1"
 sayings = json.load(open("sayings.json"))
 history = json.load(open("history.json")) if os.path.exists("history.json") else []
 # Scheduled runs: GitHub may start them late, so several runs are scheduled.
-# Send on the first one from 8:40 Rome time onwards, and only if nothing was sent today.
+# Send on the first one from 7:30 Rome time onwards, and only if nothing was sent today.
 now = datetime.now(ROME)
 if os.environ.get("GITHUB_EVENT_NAME") == "schedule":
-    if (now.hour, now.minute) < (8, 40):
+    if (now.hour, now.minute) < (7, 30):
         print("Too early in Rome, exiting.")
         sys.exit(0)
     if any(h["date"] == now.date().isoformat() for h in history):

@@ -1,13 +1,13 @@
 name: Verba Volant daily
 on:
   schedule:
-    # Several off-the-hour runs (UTC): the first one after 8:40 Rome time sends,
+    # Several off-the-hour runs (UTC): the first one after 7:30 Rome time sends,
     # the others see today's entry in history.json and exit. Covers delays and summer time.
-    - cron: "41 6 * * *"
-    - cron: "41 7 * * *"
-    - cron: "17 8 * * *"
-    - cron: "47 9 * * *"
-    - cron: "23 12 * * *"
+    - cron: "37 5 * * *"
+    - cron: "37 6 * * *"
+    - cron: "13 7 * * *"
+    - cron: "43 8 * * *"
+    - cron: "23 11 * * *"
   workflow_dispatch:       # lancio manuale per i test
 concurrency:
   group: daily-saying   # never two runs at once, so no double send
