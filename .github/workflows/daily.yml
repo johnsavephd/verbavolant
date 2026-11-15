@@ -8,7 +8,12 @@ on:
     - cron: "13 7 * * *"
     - cron: "43 8 * * *"
     - cron: "23 11 * * *"
-  workflow_dispatch:       # lancio manuale per i test
+  workflow_dispatch:
+    inputs:
+      saying:
+        description: "Preview one saying by its Latin text (e.g. Vae victis). Leave empty for a normal daily send."
+        required: false
+        default: ""
 concurrency:
   group: daily-saying   # never two runs at once, so no double send
   cancel-in-progress: false
@@ -28,6 +33,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          FORCE_SAYING: ${{ github.event.inputs.saying }}
       - name: Salva lo storico dei detti
         run: |
           git config user.name "detto-bot"
