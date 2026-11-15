@@ -1,9 +1,17 @@
 name: Verba Volant daily
 on:
   schedule:
-    - cron: "0 7 * * *"   # 9:00 a Roma in estate
-    - cron: "0 8 * * *"   # 9:00 a Roma in inverno (lo script filtra l'ora giusta)
+    # Several off-the-hour runs (UTC): the first one after 8:40 Rome time sends,
+    # the others see today's entry in history.json and exit. Covers delays and summer time.
+    - cron: "41 6 * * *"
+    - cron: "41 7 * * *"
+    - cron: "17 8 * * *"
+    - cron: "47 9 * * *"
+    - cron: "23 12 * * *"
   workflow_dispatch:       # lancio manuale per i test
+concurrency:
+  group: daily-saying   # never two runs at once, so no double send
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:

@@ -8,13 +8,19 @@ import requests
 ROME = ZoneInfo("Europe/Rome")
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
 
-# GitHub cron runs in UTC: it fires at 7 and 8 UTC and only sends when it is 9:00 in Rome.
-if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and datetime.now(ROME).hour != 9:
-    print("Not 9:00 in Rome, exiting.")
-    sys.exit(0)
-
 sayings = json.load(open("sayings.json"))
 history = json.load(open("history.json")) if os.path.exists("history.json") else []
+# Scheduled runs: GitHub may start them late, so several runs are scheduled.
+# Send on the first one from 8:40 Rome time onwards, and only if nothing was sent today.
+now = datetime.now(ROME)
+if os.environ.get("GITHUB_EVENT_NAME") == "schedule":
+    if (now.hour, now.minute) < (8, 40):
+        print("Too early in Rome, exiting.")
+        sys.exit(0)
+    if any(h["date"] == now.date().isoformat() for h in history):
+        print("Already sent today, exiting.")
+        sys.exit(0)
+
 used = {h["latin"] for h in history}
 left = [s for s in sayings if s["latin"] not in used]
 if not left:  # list exhausted: start a new cycle
