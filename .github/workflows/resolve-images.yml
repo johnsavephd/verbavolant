@@ -21,4 +21,8 @@ jobs:
           git config user.name "detto-bot"
           git config user.email "detto-bot@users.noreply.github.com"
           git add sayings.json REVIEW.md
-          git diff --cached --quiet || (git commit -m "Resolve painting images" && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "Resolve painting images"
+          # retry: if the repo changed meanwhile, rebase on top of it and push again
+          for i in 1 2 3 4 5; do git pull --rebase && git push && exit 0; sleep $((i*5)); done
+          echo "Could not save resolve painting images" && exit 1

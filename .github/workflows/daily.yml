@@ -39,4 +39,8 @@ jobs:
           git config user.name "detto-bot"
           git config user.email "detto-bot@users.noreply.github.com"
           git add history.json
-          git diff --cached --quiet || (git commit -m "Aggiorna storico" && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "Aggiorna storico"
+          # retry: if the repo changed meanwhile, rebase on top of it and push again
+          for i in 1 2 3 4 5; do git pull --rebase && git push && exit 0; sleep $((i*5)); done
+          echo "Could not save aggiorna storico" && exit 1
